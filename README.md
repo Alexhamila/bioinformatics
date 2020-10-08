@@ -8,4 +8,5 @@ Mainly written in Python3.
 
 ## Contact me
 You are always welcome to contact me!
+
 Discord:  Thris#2435
