@@ -7,6 +7,12 @@ Repository containing all codes relative to bioinformatics courses I pursued at 
 
 Mainly written in Python3.
 
+## Files
+### Python
+- ORF-Detection
+- DNA-Pattern
+- DNA-Transcription
+
 ## Contact me
 You are always welcome to contact me!
 
