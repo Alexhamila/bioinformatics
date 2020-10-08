@@ -8,5 +8,5 @@
 > 
 > ## Usage
 > 
-> 1.   `python3 transcription.py`
-> 2. input your dna sequence in terminal
+> 1.  `python3 transcription.py`
+> 2.  input your dna sequence in terminal
