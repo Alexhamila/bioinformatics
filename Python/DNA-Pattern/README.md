@@ -11,3 +11,5 @@
 1.  `python3 pattern.py`
 2.  input your dna sequence in terminal
 3.  input the pattern you're searching for
+
+\<img src="example.jpg"" />
