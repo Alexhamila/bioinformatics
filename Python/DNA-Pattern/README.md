@@ -2,6 +2,8 @@
 
 > Python3 simple pattern finder inside dna sequence
 
+<img src="example.PNG" />
+
 ## Prerequisites
 
 *   Python 3
@@ -12,4 +14,4 @@
 2.  input your dna sequence in terminal
 3.  input the pattern you're searching for
 
-<img src="example.PNG" />
+
