@@ -8,10 +8,10 @@ Repository containing all codes relative to bioinformatics courses I pursued at 
 Mainly written in Python3.
 
 ## Files
-### Python
-- ORF-Detection
-- DNA-Pattern
-- DNA-Transcription
+### Python3
+- ORF-Detection (Detects longest Open Reading Frame from sequence inside file in both strands) 
+- DNA-Pattern   (Finds a specific pattern inside a sequence)
+- DNA-Transcription (DNA to RNA transcription)
 
 ## Contact me
 You are always welcome to contact me!
