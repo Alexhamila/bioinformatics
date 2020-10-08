@@ -2,7 +2,11 @@
 
 > Python3 simple pattern finder inside dna sequence
 
+
+
 <img src="example.PNG" />
+
+
 
 ## Prerequisites
 
