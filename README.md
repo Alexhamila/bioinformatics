@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="icon.jpg" align="right" />
 
 # Bioinformatics
 > List of awesome bioinformatics codes.
