@@ -12,7 +12,7 @@ Mainly written in Python3.
 - ORF-Detection (Detects longest Open Reading Frame from sequence inside file in both strands) 
 - DNA-Pattern   (Finds a specific pattern inside a sequence)
 - DNA-Transcription (DNA to RNA transcription)
-
+- NUC-Count (DNA each nucleotide count)
 ## Contact me
 You are always welcome to contact me!
 
